@@ -1,0 +1,5 @@
+com/iqmsoft/boot/velocity/config/TemplateEngineConfig.class
+com/iqmsoft/boot/velocity/Main.class
+com/iqmsoft/boot/velocity/controllers/HomeController.class
+com/iqmsoft/boot/velocity/dto/Gender.class
+com/iqmsoft/boot/velocity/dto/Person.class
